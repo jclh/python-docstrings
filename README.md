@@ -1,2 +1,4 @@
-# python-docstrings
-Example Google Style Python Docstrings
+# Python Docstrings
+---
+
+## Example Google Style Python Docstrings
