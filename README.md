@@ -1,5 +1,5 @@
 # Python Docstrings
----
+
 ## Content
 
 * `example_google.py`: This module demonstrates documentation as specified by the `Google Python Style Guide`.
@@ -9,10 +9,11 @@
 
 ```python
 def price_num(price_str):
-    """Re-encode string of a dollar amount to float
+    """Re-encode string of a dollar amount to float.
     
     Args: 
         price_str (str): Price value with dollar symbol and comma 
+    
     Returns: 
         np.float32
         
