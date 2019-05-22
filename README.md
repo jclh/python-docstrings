@@ -12,7 +12,7 @@ def price_num(price_str):
     """Re-encode string of a dollar amount to float.
     
     Args: 
-        price_str (str): Price value with dollar symbol and comma 
+        price_str (str): Price value with dollar symbol and comma.
     
     Returns: 
         np.float32
